@@ -1,0 +1,16 @@
+.video-player {
+    height: 90vh;
+    width: 100%;
+  }
+  
+  .video-cards {
+    position: relative;
+  }
+  
+  video {
+    width: 100px;
+    height: 100vh;
+    scroll-snap-align: start;
+    /* position: relative; */
+  }
+  
